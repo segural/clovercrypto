@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/clovercrypto/static/css/main.df8d40f0.css",
+    "main.js": "/clovercrypto/static/js/main.2f379c28.js",
+    "static/media/logo.png": "/clovercrypto/static/media/logo.c60d0c402ed196498ec7.png",
+    "index.html": "/clovercrypto/index.html",
+    "main.df8d40f0.css.map": "/clovercrypto/static/css/main.df8d40f0.css.map",
+    "main.2f379c28.js.map": "/clovercrypto/static/js/main.2f379c28.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.df8d40f0.css",
+    "static/js/main.2f379c28.js"
+  ]
+}
